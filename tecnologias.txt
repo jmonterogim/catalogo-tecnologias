@@ -4,9 +4,9 @@ RESPONSABLE: (completar con el nombre del revisor)
 FRONTEND
 [ASIGNADO A PERSONA A]
 Tecnologia: React
-Descripción: (Persona A: escribe una descripción breve)
-Nivel: (Persona A: Básico / Intermedio / Avanzado)
-Recurso: (Persona A: escribe una URL o nombre de recurso)
+Descripción: Librería de JavaScript para crear interfaces de usuario.
+Nivel: Básico
+Recurso: https://react.dev
 BACKEND
 [ASIGNADO A PERSONA B]
 Tecnologia: Node.js
