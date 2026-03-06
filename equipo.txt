@@ -12,4 +12,4 @@ Estado personal: Pendiente
 === INTEGRANTE C ===
 Nombre: Daniel Pérez Pérez
 Tecnologia asignada: MongoDB
-Estado personal: En progres
+Estado personal: En progreso
