@@ -1,6 +1,6 @@
 === FICHA DEL EQUIPO ===
 ESTADO DEL PROYECTO: En planificación
-VERSIÓN: 0.2
+VERSIÓN: 1.0
 === INTEGRANTE A COORDINADOR/A ===
 Nombre: Jordi Montero
 Tecnología asignada: React
@@ -10,6 +10,6 @@ Nombre: (Rafael Oliver)
 Tecnologia asignada: Node.js
 Estado personal: En progreso
 === INTEGRANTE C ===
-Nombre: (Persona C: escribe tu nombre completo)
+Nombre: Daniel Pérez Pérez
 Tecnologia asignada: MongoDB
-Estado personal: Pendiente
+Estado personal: En progreso
